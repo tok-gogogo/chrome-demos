@@ -1,0 +1,17 @@
+{
+  "name": "koa-serve",
+  "version": "1.0.0",
+  "description": "demo-server",
+  "author": {
+    "name": "gongke",
+    "email": "gongke@myhexin.com"
+  },
+  "scripts": {
+    "start": "npm run build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "koa-bodyparser": "^4.3.0",
+    "koa": "^2.12.0"
+  }
+}
